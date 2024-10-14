@@ -1,0 +1,9 @@
+## Começando um projeto pensando no passo a passo para criar uma IA para score de crédito ##
+Criando o algoritmo (passo a passo):
+
+Passo 0: Entender o desafio, o contexto e a empresa (a margem de erro pode mudar, por exemplo)
+Passo 1: Importar a base de dados
+Passo 2: Preparar os dados para a Inteligência Artificial
+Passo 3: Criar um modelo de IA -> Nota/Score de crédito: Bom, OK, Ruim
+Passo 4: Avaliar qual o melhor modelo de IA
+Passo 5: Fazer novas previsões com a IA
