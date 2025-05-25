@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Projeto de Previsões de Score de Crédito com Inteligência Artificial
 
 Este projeto utiliza técnicas de Inteligência Artificial para desenvolver um modelo de previsão de score de crédito para clientes de um banco. 
@@ -35,3 +37,7 @@ O modelo é treinado com uma base de dados de clientes e utiliza algoritmos de m
 
 - Este projeto foi criado por Layo "MrBrum" como prática da oficina `Jornada Python` by *Hashtag Treinamentos*, em 09/10/24;
 - Se você tiver alguma dúvida ou sugestão, por favor em contato comigo pelo [Linkedin](https://www.linkedin.com/in/layo-brum/).
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
